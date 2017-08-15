@@ -1,0 +1,11 @@
+id;nombre;tipo;poder;coste;cantidad
+0;goblin;criatura;1;1;4
+0;gnomo;criatura;1;1;4
+0;elfo;criatura;2;2;4
+0;troll;criatura;4;5;3
+0;mago;criatura;2;2;3
+0;golem;criatura;6;5;1
+0;asesino;criatura;3;2;4
+0;trueno;hechizo;2;1;2
+0;fuego;hechizo;2;1;3
+0;veneno;hechizo;3;2;2
